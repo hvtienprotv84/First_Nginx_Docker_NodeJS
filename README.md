@@ -1,4 +1,12 @@
-# First - Nginx - Docker - NodeJS
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCM3shpJqOYYoA1ruNJYg6GigsG2xopMT5Q&s" width="300"/>
+  <img src="https://static-00.iconduck.com/assets.00/nginx-icon-444x512-0meva297.png" width="200"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="200"/>
+</div>
+
+<div align="center">
+  <h1>First - Nginx - Docker - NodeJS</h1>
+</div>
 
 - NodeJS
 - Nginx
